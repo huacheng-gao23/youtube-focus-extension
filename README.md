@@ -6,11 +6,11 @@
 
 Imagine going the grocery store and the only items you can see in the store are the 
 items that you <u>need</u>. Only the essentials, none of the other products that are packaged or arranged
-in a way for you to buy something you didn't intent to in the first place.
+in a way for you to buy something you didn't intend to in the first place.
 
 This Chrome extension aims to help users make their YouTube experience more focused by reducing distractions and
 doomscrolling from the homepage. YouTube is a great place to learn anything you want, but it's also a place that is designed 
-to maximize user retention time on the platform. By focusing the viewing experience, this tool aims to help you stay on track
+to maximize user retention time on the platform, thus showing you content that you are more likely to click on and watch. By focusing the viewing experience, this tool aims to help you stay on track
 with your goals, whether thats learning, studying, interview preparation, etc so that you can continue to work on your best self!
 
 Features include:
