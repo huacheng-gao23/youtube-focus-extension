@@ -10,8 +10,14 @@ in a way for you to buy something you didn't intend to in the first place.
 
 This Chrome extension aims to help users make their YouTube experience more focused by reducing distractions and
 doomscrolling from the homepage. YouTube is a great place to learn anything you want, but it's also a place that is designed 
-to maximize user retention time on the platform, thus showing you content that you are more likely to click on and watch. By focusing the viewing experience, this tool aims to help you stay on track
-with your goals, whether thats learning, studying, interview preparation, etc so that you can continue to work on your best self!
+to maximize user retention time on the platform, thus showing you content that you are more likely to click on and watch. 
+
+From observations of friends and family, the homepage is where you are most likely to start going on a video binge and stray off
+your original path. Once you've clicked in, the recommended video sidebars, play nexts, etc keep you in the infinte loop. By blurring the most stimulating part of the homepage, the thumbnails, you are less likely to click into a video that you did not 
+originally come to YouTube to watch. 
+
+By focusing the viewing experience, this tool aims to help you stay on track
+with your goals, whether thats learning, studying, interview preparation, etc so that you can continue to work on your best self and achieve your goals without getting distracted!
 
 Ace that test! Get that job! Learn that new thing you always wanted!
 
