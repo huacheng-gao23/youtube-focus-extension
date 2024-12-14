@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Section Blocker",
+  "version": "1.0",
+  "description": "Blocks specific sections on YouTube",
+  "permissions": ["scripting"],
+  "host_permissions": ["*://www.youtube.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "css": ["styles.css"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

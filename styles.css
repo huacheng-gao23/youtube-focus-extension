@@ -1,0 +1,13 @@
+/* Hide the Shorts section on the side bar */
+.yt-simple-endpoint[title="Shorts"],
+ytd-guide-entry-renderer[title="Shorts"],
+ytd-mini-guide-entry-renderer[title="Shorts"] {
+  display: none !important;
+}
+
+/* Hide the chip bar at the top og the home page*/
+ytd-feed-filter-chip-bar-renderer,
+#chips.style-scope.ytd-feed-filter-chip-bar-renderer,
+#scroll-container.style-scope.ytd-feed-filter-chip-bar-renderer {
+  display: none !important;
+}
