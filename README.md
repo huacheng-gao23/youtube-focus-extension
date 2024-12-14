@@ -13,6 +13,8 @@ doomscrolling from the homepage. YouTube is a great place to learn anything you 
 to maximize user retention time on the platform, thus showing you content that you are more likely to click on and watch. By focusing the viewing experience, this tool aims to help you stay on track
 with your goals, whether thats learning, studying, interview preparation, etc so that you can continue to work on your best self!
 
+Ace that test! Get that job! Learn that new thing you always wanted!
+
 Features include:
 
 - Removing Shorts from the sidebar and homepage
